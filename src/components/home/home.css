@@ -1,0 +1,22 @@
+.mcgraw{
+    font-family: 'Raleway', sans-serif;
+    font-size: 4.4em;
+    padding-bottom: 20px;
+    padding-top: 150px;
+    
+    
+}
+
+.mcgrawsubtitle{
+    font-size:0.8em;
+    padding-bottom: 8em;
+}
+
+.studentRecordMessage{
+    padding-top: 1em;
+    font-size: 1.5em;
+    padding-bottom: 2em;
+    letter-spacing: 0.2em;
+    word-spacing: 0.4em;
+
+}
